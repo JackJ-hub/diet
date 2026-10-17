@@ -8,7 +8,7 @@
 
 1. 注册 GitHub 账号。
 2. 新建一个 **public** 仓库,例如 `diet`。
-3. 把本文件夹里的**所有文件**(含 `icons/` 文件夹)上传:网页端 "Add file → Upload files" 即可,不需要 git。
+3. 把本文件夹里的**所有文件**上传:网页端 "Add file → Upload files" 即可,不需要 git。
 4. Settings → Pages → Deploy from branch,选择 `main` / `(root)`,保存。
 5. 等约 1 分钟,在 iPhone 的 **Safari** 中打开 `https://<用户名>.github.io/diet/`。
 6. 点底部「分享」按钮 → 「添加到主屏幕」。

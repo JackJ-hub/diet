@@ -1,5 +1,5 @@
 const CACHE = 'diet-v1';
-const ASSETS = ['./', 'index.html', 'style.css', 'foods.js', 'app.js', 'manifest.webmanifest', 'icons/icon-180.png'];
+const ASSETS = ['./', 'index.html', 'style.css', 'foods.js', 'app.js', 'manifest.webmanifest', 'icon-180.png'];
 
 self.addEventListener('install', (e) => {
   self.skipWaiting();
